@@ -47,7 +47,7 @@ For example, the following xml document:
     <book title='The Cyberiad'>
       <!-- comment in here -->
       <author xmlns='http://authors'>Stanislaw Lem</author>
-      <info:subject xmlns:info='http://bookinfo' rank='1'>&amp;quot;Cybernetic Fables&amp;quot;</info:subject>
+      <info:subject xmlns:info='http://bookinfo' rank='1'>&quot;Cybernetic Fables&quot;</info:subject>
     </book>
 
 Would parse as:
